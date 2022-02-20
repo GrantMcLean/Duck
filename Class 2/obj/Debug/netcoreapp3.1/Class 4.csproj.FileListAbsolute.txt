@@ -1,0 +1,13 @@
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\bin\Debug\netcoreapp3.1\Class 4.exe
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\bin\Debug\netcoreapp3.1\Class 4.deps.json
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\bin\Debug\netcoreapp3.1\Class 4.runtimeconfig.json
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\bin\Debug\netcoreapp3.1\Class 4.runtimeconfig.dev.json
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\bin\Debug\netcoreapp3.1\Class 4.dll
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\bin\Debug\netcoreapp3.1\Class 4.pdb
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\obj\Debug\netcoreapp3.1\Class 4.csprojAssemblyReference.cache
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\obj\Debug\netcoreapp3.1\Class 4.AssemblyInfoInputs.cache
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\obj\Debug\netcoreapp3.1\Class 4.AssemblyInfo.cs
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\obj\Debug\netcoreapp3.1\Class 4.csproj.CoreCompileInputs.cache
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\obj\Debug\netcoreapp3.1\Class 4.dll
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\obj\Debug\netcoreapp3.1\Class 4.pdb
+C:\Users\bigmc\OneDrive\Desktop\MIS 321\Class Activites\Class 4\obj\Debug\netcoreapp3.1\Class 4.genruntimeconfig.cache
